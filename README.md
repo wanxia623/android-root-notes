@@ -4,14 +4,13 @@ My Android root &amp; LSPosed testing notes
 
 ## Device
 - Xiaomi 17 Ultra
-- Android 15 / HyperOS
+- Android 16 / HyperOS 3.0
 
 ## Environment
-- Magisk / KernelSU
+- KernelSU
 - LSPosed
 
 ## Modules Tested
-- Shamiko
 - LSPosed modules
 
 ## Notes
