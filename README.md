@@ -15,3 +15,5 @@ My Android root &amp; LSPosed testing notes
 
 ## Notes
 This repo is used to record my testing and usage of root environment.
+
+try to build the first mould for douyin
